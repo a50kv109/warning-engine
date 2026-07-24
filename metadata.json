@@ -1,0 +1,8 @@
+{
+  "name": "Remix: WARNING ENGINE v1.0",
+  "description": " A deterministic engineering library for state evaluation and early warning based on weighted predictors. Domain-independent, stateless, and adapter-driven.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
